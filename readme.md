@@ -45,3 +45,4 @@ Other nice to know:
 Resources:
 http://blogs.msmvps.com/deborahk/angular-2-getting-started-problem-solver/
 https://angular.io/docs/ts/latest/quickstart.html
+http://tutorialzine.com/2016/07/learn-typescript-in-30-minutes/
